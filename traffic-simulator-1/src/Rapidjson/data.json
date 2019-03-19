@@ -1,0 +1,43 @@
+{
+    "intersections" : [
+    {
+    	"id": 1,
+    	"x" : 2,
+    	"y" : 2
+    },
+    {
+    	"id" : 2,
+    	"x" : 2,
+    	"y" : 8
+    },
+    {
+    	"id" : 3,
+    	"x" : 9,
+    	"y" : 2
+    }
+    	],
+    
+    "roads" : [
+    {
+    	"name" : "yloskatu",
+    	"x1" : 3,
+    	"y1" : 0,
+    	"x2" : 3,
+    	"y2" : 1,
+    	"endintersection" : 1
+    	"speedlimit" : 40,
+    	"curvature" : 1
+    },
+    {
+    	"name" : "yloskatu",
+    	"x1" : 3,
+    	"y1" : 4,
+    	"x2" : 3,
+    	"y2" : 7,
+    	"endintersection" : 2
+    	"speedlimit" : 40,
+    	"curvature" : 1
+    }
+    	]
+
+}
