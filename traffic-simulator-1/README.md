@@ -1,8 +1,5 @@
-# Sample README file for C++ programming project
-
-This is an initial git repository for your programming project.
-It contains an initial directory structure that we wish you could
-use as follows:
+#README file for C++ programming project
+This project is not ready and it will not currently compile, because critical functions are not made.
 
   * `plan/' -- Here is your project plan. You may use different sources,
     but we hope to get the pan **also as pdf file**.
